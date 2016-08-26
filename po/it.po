@@ -24,7 +24,7 @@ msgstr "A proposito"
 #: ../app/AboutPage.qml:64
 #, qt-format
 msgid "Weight Tracker %1 (Beta)"
-msgstr "Weight Tracker %1 (Béta)"
+msgstr "Weight Tracker %1 (Beta)"
 
 #: ../app/AboutPage.qml:81
 msgid "Source Code"
@@ -61,12 +61,12 @@ msgid ""
 "the bottom of the screen."
 msgstr ""
 "Inserisci il nuovo peso\n"
-"facendo uno swipe su\n"
-"dal basso dello schermo."
+"facendo uno swipe in alto\n"
+"dal bordo inferiore dello schermo."
 
 #: ../app/GraphComponent.qml:27
 msgid "Not enough data to show a chart."
-msgstr "Non ci sono abbastanza dati per tracciare un grafico."
+msgstr "Non ci sono abbastanza dati per mostrare un grafico."
 
 #: ../app/ListStatisticsPage.qml:12
 msgid "Weight statistics"

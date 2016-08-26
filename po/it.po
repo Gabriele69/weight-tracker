@@ -78,15 +78,15 @@ msgstr "Peso medio :"
 
 #: ../app/ListStatisticsPage.qml:58
 msgid "Average last week"
-msgstr "Media dell'ultima settimana"
+msgstr "Media della scorsa settimana"
 
 #: ../app/ListStatisticsPage.qml:69
 msgid "Average last month"
-msgstr "Media dell'ultimo mese"
+msgstr "Media dello scorso mese"
 
 #: ../app/ListStatisticsPage.qml:80
 msgid "Average last year"
-msgstr "Media dell'ultimo anno"
+msgstr "Media dello scorso anno"
 
 #: ../app/ListStatisticsPage.qml:94
 msgid "Changes in weight:"
@@ -94,19 +94,19 @@ msgstr "Variazioni del peso :"
 
 #: ../app/ListStatisticsPage.qml:102
 msgid "Changes last week"
-msgstr "Variazioni dell'ultima settimana"
+msgstr "Variazione dalla scorsa settimana"
 
 #: ../app/ListStatisticsPage.qml:113
 msgid "Changes last month"
-msgstr "Variazioni dell'ultimo mese"
+msgstr "Variazione dallo scorso mese"
 
 #: ../app/ListStatisticsPage.qml:124
 msgid "Changes last year"
-msgstr "Variazioni dell'ultimo anno"
+msgstr "Variazione dallo scorso anno"
 
 #: ../app/ListStatisticsPage.qml:135
 msgid "Changes from start"
-msgstr "Variazioni dall'inizio"
+msgstr "Variazione dall'inizio"
 
 #: ../app/ListStatisticsPage.qml:149
 msgid "General:"
@@ -114,11 +114,11 @@ msgstr "Generale:"
 
 #: ../app/ListStatisticsPage.qml:157
 msgid "The highest weight"
-msgstr "Peso massimo"
+msgstr "Il peso più alto"
 
 #: ../app/ListStatisticsPage.qml:168
 msgid "The lowest weight"
-msgstr "Peso più basso"
+msgstr "Il peso più basso"
 
 #: ../app/ListStatisticsPage.qml:185 ../app/ListWeightPage.qml:70
 #: ../app/NewWeightComponent.qml:73 ../app/StatisticsComponent.qml:90
@@ -134,7 +134,7 @@ msgstr "LB"
 
 #: ../app/ListWeightPage.qml:11
 msgid "Weight History"
-msgstr "Storico del peso"
+msgstr "Storico delle misurazioni"
 
 #: ../app/Main.qml:24
 #, qt-format
@@ -148,7 +148,7 @@ msgstr "Nessun peso oggi."
 #: ../app/MainPage.qml:12
 #: /home/avi/qt/ubuntu-touch/weight-tracker-build/po/weight-tracker.desktop.in.h:1
 msgid "Weight Tracker"
-msgstr "Statistiche di peso"
+msgstr "Weight Tracker"
 
 #: ../app/MainPage.qml:21
 msgid "Info"
@@ -201,7 +201,7 @@ msgstr "Sei sicuro di voler cancellare questo dato?"
 #: ../app/NewWeightComponent.qml:152 ../app/SettingsView.qml:292
 #: ../app/SettingsView.qml:333
 msgid "Cancel"
-msgstr "Cancella"
+msgstr "Annulla"
 
 #: ../app/NewWeightComponent.qml:159
 msgid "Update"
@@ -234,7 +234,7 @@ msgstr "Più di un anno"
 
 #: ../app/SettingsView.qml:87
 msgid "All history"
-msgstr "Tuto lo storico"
+msgstr "Tutto lo storico"
 
 #: ../app/SettingsView.qml:109
 msgid "User Settings:"
@@ -296,15 +296,15 @@ msgid ""
 "in the %1"
 msgstr ""
 "Tuo peso medio\n"
-"nel %1"
+"%1"
 
 #: ../app/StatisticsComponent.qml:126 ../app/StatisticsComponent.qml:155
 msgid "last month"
-msgstr "questo mese"
+msgstr "lo scorso mese"
 
 #: ../app/StatisticsComponent.qml:131 ../app/StatisticsComponent.qml:165
 msgid "last year"
-msgstr "quest'anno"
+msgstr "lo scorso anno"
 
 #: ../app/StatisticsComponent.qml:136
 msgid "Your highest weight"
@@ -332,11 +332,11 @@ msgstr "dall'inizio"
 
 #: ../app/UserComponent.qml:77
 msgid "Male"
-msgstr "Uomo"
+msgstr "Maschio"
 
 #: ../app/UserComponent.qml:78
 msgid "Female"
-msgstr "Donna"
+msgstr "Femmina"
 
 #: ../app/UserComponent.qml:104
 msgid "It is your first use, insert your details to proceed"
